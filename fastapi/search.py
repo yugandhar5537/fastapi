@@ -9,7 +9,7 @@ products = [
     {"id": 1, "name": "Laptop", "category": "Electronics", "price": 55000},
     {"id": 2, "name": "Smartphone", "category": "Electronics", "price": 25000},
     {"id": 3, "name": "Desk Chair", "category": "Furniture", "price": 7000},
-    {"id": 4, "name": "Water Bottle", "category": "Kitchen", "price": 500},
+    {"id": 4, "name": "Water Bottle", "category": "Kitchen", "price": 5000},
     {"id": 5, "name": "Headphones", "category": "Electronics", "price": 3500}
 ]
 
